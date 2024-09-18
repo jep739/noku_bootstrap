@@ -1,4 +1,4 @@
-# NNI Tester
+# Bootstrap-testing av Nærmeste Nabo-modellen brukt for å produsere NØKU-statistikk hos SSB.
 
 English version:
 
