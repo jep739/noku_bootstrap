@@ -4,6 +4,8 @@ English version:
 
 - [English](README.md)
 
+#### Dette programmet krever at du er ansatt i SSB for å få tilgang til dataene. Koden er kun tilgjengelig her for å dokumentere mitt arbeid, all konfidensiell informasjon er skjult.
+
 Dette programmet har som mål å evaluere ytelsen til NNI-modellen vi bruker i produksjonen av NØKU-statistikken. Dette gjøres ved hjelp av en bootstrap-metode som behandler flere års reg_type 01 foretaksskjema som populasjonen. Et tilfeldig utvalg av dette datasettet blir valgt tilfeldig over X antall iterasjoner for å fungere som et utvalg og 'giver' informasjon til de resterende radene i populasjonen. Resultatene evalueres ved å sammenligne predikert salg med faktisk rapportert salgsinntekt fra undersøkelsesdeltakerne.
 
 #### Vennligst merk: 
